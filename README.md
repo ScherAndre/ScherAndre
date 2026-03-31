@@ -1,77 +1,70 @@
-<h1 align="center">André Felipe Scher de Souza</h1>
+# André Felipe Scher de Souza
 
-<p align="center">
-  <strong>Desenvolvedor Web em Formação</strong> · Engenharia de Software & Análise de Sistemas
-</p>
+**Desenvolvedor Back-End Júnior | PHP · Magento 2 · HTML · CSS · JavaScript**
 
-<p align="center">
-  <a href="mailto:andrescher14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-andrescher14%40gmail.com-00e5a0?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/andre-felipe-scher-de-souza-35b694259/">
-    <img src="https://img.shields.io/badge/LinkedIn-André%20Scher-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://scherandre.github.io/andre-scher-portfolio">
-    <img src="https://img.shields.io/badge/Portfólio-Ver%20online-7b61ff?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-![A man in a purple shirt sits at a desk working on a laptop, holding a pen in his hand. Around him are floating icons representing HTML, C++, CSS, and code symbols. The environment shows a modern workspace with multiple monitors and filing boxes. The tone is professional and focused, conveying dedication to software development and learning.](./assets/images/programmer-man-process-coding-with-laptop-computer-software-development-concept-illustration_294791--removebg-preview.png)
-
+Desenvolvedor júnior atuando na área de e-commerce com foco em back-end.
+Estudante de Engenharia de Software e Análise de Sistemas, comprometido com boas práticas de código e evolução técnica contínua.
+Com objetivo claro de me tornar desenvolvedor full stack.
 
 ---
 
-## Sobre mim
+## Experiência Profissional
 
-Sou estudante de **Engenharia de Software e Análise de Sistemas**, focado em desenvolvimento web front-end. Estou construindo minha base técnica com projetos práticos e buscando minha **primeira oportunidade profissional** como desenvolvedor.
-
-Acredito que consistência e projetos reais valem mais do que certificados — por isso cada repositório aqui representa algo que aprendi na prática.
-
----
-
-## Tecnologias que estou aprendendo
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</p>
+**Desenvolvedor Júnior — [MageSimple](https://www.magesimple.com.br)** *(atual)*
+Empresa especializada em soluções Magento 2 para e-commerce, atuando em desenvolvimento, personalização e sustentação de lojas virtuais.
+- Desenvolvimento e manutenção de funcionalidades em ambiente Magento 2
+- Atuação com PHP no contexto de plataformas de e-commerce
+- Contato com projetos reais de clientes em produção
 
 ---
 
-## Projetos em destaque
+## Habilidades Técnicas
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [🌐 Portfólio Pessoal](https://github.com/ScherAndre/andre-scher-portfolio) | Site de portfólio desenvolvido do zero, responsivo e sem frameworks | HTML · CSS · JS |
-| [🥽 Google Glass Clone](https://github.com/ScherAndre/GoogleGlass-Guanabara) | Recriação do site do Google Glass, focado em estruturação e estilo | HTML · CSS |
-| [📝 HTML Revisão](https://github.com/ScherAndre/Html-treino-revisao) | Exercícios práticos de fixação dos fundamentos do HTML5 | HTML |
+**Back-End** *(foco principal)*
+- PHP — lógica de programação, estruturação de scripts e aplicações server-side
+- Magento 2 — plataforma de e-commerce enterprise
+- Lógica de programação e estrutura de dados
 
----
+**Front-End**
+- HTML5 e CSS3 — estruturação semântica e estilização de interfaces
+- JavaScript — fundamentos, DOM e interatividade
 
-## Atualmente estudando
-
-- Lógica de programação e algoritmos
-- JavaScript (DOM, eventos, funções)
-- Estrutura e semântica HTML
-- CSS avançado (Flexbox, Grid, animações)
-- Versionamento com Git e GitHub
-- PHP e introdução ao back-end
+**Ferramentas**
+- Git e GitHub — versionamento e controle de projetos
 
 ---
 
-## O que busco
+## Projetos
 
-Estou em busca da minha **primeira oportunidade como desenvolvedor web**, seja estágio ou posição júnior, onde eu possa aprender com um time experiente e contribuir com projetos reais.
+**[GoogleGlass-Guanabara](https://github.com/ScherAndre/GoogleGlass-Guanabara)**
+Interface web desenvolvida com HTML5 e CSS3. Projeto prático de layout, estrutura e organização front-end.
 
-📬 **andrescher14@gmail.com**
+**[Html-treino-revisao](https://github.com/ScherAndre/Html-treino-revisao)**
+Repositório de exercícios e revisões de HTML — fundamentos aplicados na prática e consolidados com versionamento.
+
+**[primeiro-commit](https://github.com/ScherAndre/primeiro-commit)**
+Projeto inicial com Git, marcando o início da minha jornada no desenvolvimento de software.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ScherAndre&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="130"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScherAndre&layout=compact&theme=tokyonight&hide_border=true" height="130"/>
-</p>
+## Objetivo Profissional
+
+Consolidar experiência como desenvolvedor back-end com PHP e Magento 2, expandindo progressivamente para o desenvolvimento full stack.
+Focado em crescer dentro de equipes de produto, entregar valor real e evoluir de forma consistente.
+
+---
+
+## Formação
+
+Engenharia de Software / Análise e Desenvolvimento de Sistemas *(em andamento)*
+
+---
+
+## Contato
+
+[andrescher14@gmail.com](mailto:andrescher14@gmail.com) · [LinkedIn](https://www.linkedin.com/in/andre-felipe-scher-de-souza-35b694259/) · [GitHub](https://github.com/ScherAndre)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ScherAndre&show_icons=true&theme=default&hide_border=true&title_color=000000&text_color=333333&icon_color=000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ScherAndre&layout=compact&theme=default&hide_border=true&title_color=000000&text_color=333333)
